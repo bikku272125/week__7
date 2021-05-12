@@ -1,0 +1,2 @@
+# week__7
+Write a program for given case: Given r red, b blue, and g green balls, find the total number of the arrangements in a row such that no two balls of the same color end up together.  Input:  r = 1, b = 1, g = 1   Output: Total number of arrangements are 6   The arrangements are [bgbr, bgrb, brbg, brgb, gbrb, rbgb]   Input:  r = 2, b = 3, g = 1   Output: 10   The arrangements are [bgbrbr, bgrbrb, brbgbr, brbgrb, brbrbg, brbrgb, brgbrb, gbrbrb, rbgbrb, rbrbgb]
